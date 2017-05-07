@@ -1,11 +1,11 @@
 # Rails App Application
 
-> This a rubu on rails 5 application that allows users to creat their own portfolios
+> This a ruby on rails 5 application that allows users to create their own portfolios
 
 ### Features
 
 - real time chat engine for comments
-- Blog 
+- Blog
 - Portfolio
 - Drag and drop interface
 
