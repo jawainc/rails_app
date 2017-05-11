@@ -38,4 +38,7 @@ class PortfoliosController < ApplicationController
       end
     end
   end
+
+  #ToDo Add methods for repeated code
+
 end
